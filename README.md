@@ -3,13 +3,13 @@
 This project is an implementation of various neural network models, including Hopfield Networks, Boltzmann Machine, Markov Assumption and Markov Chain, Feed Forward, and Multilayer Perceptron (MLP). These models are widely used in the field of machine learning and artificial intelligence for tasks such as image recognition, speech recognition, and natural language processing.The application part is MLP and the other parts are theoretical information in Latex format.
 
 ## Hopfield Networks
-Hopfield Networks are a type of recurrent neural network that can store and retrieve patterns from memory. They are used for tasks such as associative memory, pattern recognition, and image reconstruction. In this project, we implement a Python-based version of Hopfield Networks, complete with training and testing functionalities.
+Hopfield Networks are a type of recurrent neural network that can store and retrieve patterns from memory. They are used for tasks such as associative memory, pattern recognition, and image reconstruction. .
 
 ## Boltzmann Machine
-Boltzmann Machine is a type of stochastic recurrent neural network that is used for modeling probabilistic distributions. It consists of a network of binary units that are connected in a symmetric fashion, and it uses a Markov Chain Monte Carlo (MCMC) approach for training. In this project, we provide an implementation of Boltzmann Machine in Python, along with training and sampling functionalities.
+Boltzmann Machine is a type of stochastic recurrent neural network that is used for modeling probabilistic distributions. It consists of a network of binary units that are connected in a symmetric fashion, and it uses a Markov Chain Monte Carlo (MCMC) approach for training. 
 
 ## Markov Assumption and Markov Chain
-Markov Assumption is a statistical assumption that states that the future state of a system depends only on its current state and not on its past states. Markov Chain is a mathematical model that describes the transition probabilities between different states of a system that satisfies the Markov Assumption. In this project, we implement a Markov Chain in Python, and we use it as the basis for training and testing various neural network models.
+Markov Assumption is a statistical assumption that states that the future state of a system depends only on its current state and not on its past states. Markov Chain is a mathematical model that describes the transition probabilities between different states of a system that satisfies the Markov Assumption.
 
 ## Feed Forward
 Feed Forward neural networks are the most basic type of neural networks, where information flows in only one direction, from input to output. They consist of layers of interconnected nodes, or neurons, with each neuron processing the input and passing it to the next layer. In this project, we implement a Feed Forward neural network in Python, complete with training and testing functionalities.
